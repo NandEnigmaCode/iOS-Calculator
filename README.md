@@ -31,4 +31,4 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/ios-calculator-cloned.git
+   https://github.com/NandEnigmaCode/iOS-Calculator.git
